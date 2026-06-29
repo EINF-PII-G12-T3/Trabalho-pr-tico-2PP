@@ -33,6 +33,6 @@ Tecnologias Utilizadas:
 
 Autores:
 
-* **Welliton Kene** 
-* Sabini Gaspar
-* Luis Dalton
+* **Welliton Costa** 
+* **Sabino Gaspar**
+* **Luis Dalton**
