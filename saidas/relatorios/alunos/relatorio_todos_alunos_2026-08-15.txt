@@ -1,0 +1,74 @@
+===== LISTAGEM GERAL DE ALUNOS =====
+Data: 15/08/2026
+
+=== DADOS DO ALUNO ===
+Matricula: 20260001
+Nome: PAULO FONSECA
+BI: 1111111111LA01
+Idade: 16 anos
+Classe: 10.a Classe
+Curso ID: INF
+Turma ID: INF10A
+Situacao: INACTIVO
+Data de Matricula: 13/06/2026
+
+--- MENSALIDADES ---
+Mes 1: 15000,00 Kz | EM ABERTO
+Mes 2: 15000,00 Kz | EM ABERTO
+Mes 3: 15000,00 Kz | EM ABERTO
+Mes 4: 15000,00 Kz | EM ABERTO
+Mes 5: 15000,00 Kz | EM ABERTO
+Mes 6: 15000,00 Kz | EM ABERTO
+Mes 7: 15000,00 Kz | EM ABERTO
+Mes 8: 15000,00 Kz | EM ABERTO
+Mes 9: 15000,00 Kz | EM ABERTO
+Mes 10: 15000,00 Kz | EM ABERTO
+
+=== DADOS DO ALUNO ===
+Matricula: 20260002
+Nome: ROGER REIS
+BI: 2222222222LA02
+Idade: 18 anos
+Classe: 10.a Classe
+Curso ID: CON
+Turma ID: con10a
+Situacao: INACTIVO
+Data de Matricula: 15/08/2026
+Multa Aplicada: 1200,00 Kz
+
+--- MENSALIDADES ---
+Mes 1: 13200,00 Kz | PAGO em 15/08/2026
+Mes 2: 13200,00 Kz | PAGO em 15/08/2026
+Mes 3: 13200,00 Kz | PAGO em 15/08/2026
+Mes 4: 13200,00 Kz | PAGO em 15/08/2026
+Mes 5: 13200,00 Kz | PAGO em 15/08/2026
+Mes 6: 13200,00 Kz | EM ABERTO
+Mes 7: 13200,00 Kz | EM ABERTO
+Mes 8: 13200,00 Kz | EM ABERTO
+Mes 9: 13200,00 Kz | EM ABERTO
+Mes 10: 13200,00 Kz | EM ABERTO
+
+=== DADOS DO ALUNO ===
+Matricula: 20260003
+Nome: SERGIO
+BI: 3333333333LA03
+Idade: 17 anos
+Classe: 10.a Classe
+Curso ID: INF
+Turma ID: INF10A
+Situacao: INACTIVO
+Data de Matricula: 15/08/2026
+Multa Aplicada: 1500,00 Kz
+
+--- MENSALIDADES ---
+Mes 1: 16500,00 Kz | EM ABERTO
+Mes 2: 16500,00 Kz | EM ABERTO
+Mes 3: 16500,00 Kz | EM ABERTO
+Mes 4: 16500,00 Kz | EM ABERTO
+Mes 5: 16500,00 Kz | EM ABERTO
+Mes 6: 16500,00 Kz | EM ABERTO
+Mes 7: 16500,00 Kz | EM ABERTO
+Mes 8: 16500,00 Kz | EM ABERTO
+Mes 9: 16500,00 Kz | EM ABERTO
+Mes 10: 16500,00 Kz | EM ABERTO
+

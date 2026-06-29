@@ -1,0 +1,22 @@
+============================================
+         COMPROVATIVO DE PAGAMENTO          
+============================================
+Tipo: Comprovativo - Pagamento Anual da Propina (15% desconto)
+Aluno: SERGIO
+Identificador: 20260003
+Data de Emissao: 15/08/2026
+
+Itens Pagos:
+  - Mensalidade 1
+  - Mensalidade 2
+  - Mensalidade 3
+  - Mensalidade 4
+  - Mensalidade 5
+  - Mensalidade 6
+  - Mensalidade 7
+  - Mensalidade 8
+  - Mensalidade 9
+  - Mensalidade 10
+
+Total Pago: 140250,00 Kz
+============================================

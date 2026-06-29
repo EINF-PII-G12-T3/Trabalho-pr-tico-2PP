@@ -1,0 +1,18 @@
+===== HISTORICO DE PAGAMENTOS =====
+Aluno: SERGIO
+Matricula: 20260003
+BI: 3333333333LA03
+
+--- PROPINAS ---
+Mensalidade 1 | Valor: 16500,00 Kz | Pago em: 15/08/2026
+Mensalidade 2 | Valor: 16500,00 Kz | Pago em: 15/08/2026
+Mensalidade 3 | Valor: 16500,00 Kz | Pago em: 15/08/2026
+Mensalidade 4 | Valor: 16500,00 Kz | Pago em: 15/08/2026
+Mensalidade 5 | Valor: 16500,00 Kz | Pago em: 15/08/2026
+Mensalidade 6 | Valor: 16500,00 Kz | Pago em: 15/08/2026
+Mensalidade 7 | Valor: 16500,00 Kz | Pago em: 15/08/2026
+Mensalidade 8 | Valor: 16500,00 Kz | Pago em: 15/08/2026
+Mensalidade 9 | Valor: 16500,00 Kz | Pago em: 15/08/2026
+Mensalidade 10 | Valor: 16500,00 Kz | Pago em: 15/08/2026
+
+--- EMOLUMENTOS ---

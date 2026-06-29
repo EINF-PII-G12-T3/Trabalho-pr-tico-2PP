@@ -1,0 +1,9 @@
+===== HISTORICO DE PAGAMENTOS =====
+Aluno: PEDRO
+Matricula: 20260001
+BI: 1111111111LA01
+
+--- PROPINAS ---
+Mensalidade 1 | Valor: 16500,00 Kz | Pago em: 16/08/2026
+
+--- EMOLUMENTOS ---

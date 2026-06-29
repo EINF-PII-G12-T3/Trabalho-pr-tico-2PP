@@ -1,0 +1,13 @@
+============================================
+         COMPROVATIVO DE PAGAMENTO          
+============================================
+Tipo: Comprovativo de Propinas
+Aluno: PEDRO
+Identificador: 20260001
+Data de Emissao: 16/08/2026
+
+Itens Pagos:
+  - Mensalidade 1
+
+Total Pago: 16500,00 Kz
+============================================

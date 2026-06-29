@@ -1,0 +1,24 @@
+===== RELATORIO DE FUNCIONARIOS =====
+Data: 16/08/2026
+
+ID interno: 1
+Codigo: FUNC001
+Nome: Sabino Gaspar
+BI: 123456789LA001
+Email: sabino.gaspar@sgmf.co.ao
+Nivel de Acesso: ADMIN
+--------------------------------
+ID interno: 2
+Codigo: FUNC002
+Nome: Dalton Costa
+BI: 1234567890LA01
+Email: dalton@gmail.com
+Nivel de Acesso: SECRETARIO
+--------------------------------
+ID interno: 3
+Codigo: FUNC003
+Nome: MARIO MONTEIRO
+BI: 0987654321LA01
+Email: mario@gmail.com
+Nivel de Acesso: FINANCEIRO
+--------------------------------

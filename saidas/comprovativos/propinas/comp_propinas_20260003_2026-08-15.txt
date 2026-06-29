@@ -1,0 +1,13 @@
+============================================
+         COMPROVATIVO DE PAGAMENTO          
+============================================
+Tipo: Comprovativo de Propinas
+Aluno: SERGIO
+Identificador: 20260003
+Data de Emissao: 15/08/2026
+
+Itens Pagos:
+  - Mensalidade 1
+
+Total Pago: 16500,00 Kz
+============================================

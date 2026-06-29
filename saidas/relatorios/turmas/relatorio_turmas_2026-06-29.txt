@@ -1,0 +1,123 @@
+===== RELATORIO DE TURMAS =====
+Data: 29/06/2026
+
+ID: INF10A
+Nome: Turma A
+Classe: 10.a
+Vagas: 35 | Ocupadas: 12
+Livres: 23
+--------------------------------
+ID: INF10B
+Nome: Turma B
+Classe: 10.a
+Vagas: 35 | Ocupadas: 10
+Livres: 25
+--------------------------------
+ID: INF11A
+Nome: Turma A
+Classe: 11.a
+Vagas: 35 | Ocupadas: 8
+Livres: 27
+--------------------------------
+ID: INF12A
+Nome: Turma A
+Classe: 12.a
+Vagas: 30 | Ocupadas: 5
+Livres: 25
+--------------------------------
+ID: MEC10A
+Nome: Turma A
+Classe: 10.a
+Vagas: 32 | Ocupadas: 14
+Livres: 18
+--------------------------------
+ID: MEC11A
+Nome: Turma A
+Classe: 11.a
+Vagas: 32 | Ocupadas: 6
+Livres: 26
+--------------------------------
+ID: MEC12A
+Nome: Turma A
+Classe: 12.a
+Vagas: 30 | Ocupadas: 4
+Livres: 26
+--------------------------------
+ID: MEC13A
+Nome: Turma A
+Classe: 13.a
+Vagas: 25 | Ocupadas: 2
+Livres: 23
+--------------------------------
+ID: PET10A
+Nome: Turma A
+Classe: 10.a
+Vagas: 30 | Ocupadas: 10
+Livres: 20
+--------------------------------
+ID: PET11A
+Nome: Turma A
+Classe: 11.a
+Vagas: 30 | Ocupadas: 7
+Livres: 23
+--------------------------------
+ID: PET12A
+Nome: Turma A
+Classe: 12.a
+Vagas: 28 | Ocupadas: 5
+Livres: 23
+--------------------------------
+ID: PET12B
+Nome: Turma B
+Classe: 12.a
+Vagas: 28 | Ocupadas: 4
+Livres: 24
+--------------------------------
+ID: ELE10A
+Nome: Turma A
+Classe: 10.a
+Vagas: 32 | Ocupadas: 9
+Livres: 23
+--------------------------------
+ID: ELE11A
+Nome: Turma A
+Classe: 11.a
+Vagas: 32 | Ocupadas: 6
+Livres: 26
+--------------------------------
+ID: GES10A
+Nome: Turma A
+Classe: 10.a
+Vagas: 35 | Ocupadas: 11
+Livres: 24
+--------------------------------
+ID: GES11A
+Nome: Turma A
+Classe: 11.a
+Vagas: 35 | Ocupadas: 8
+Livres: 27
+--------------------------------
+ID: GES12A
+Nome: Turma A
+Classe: 12.a
+Vagas: 30 | Ocupadas: 5
+Livres: 25
+--------------------------------
+ID: ECO10A
+Nome: Turma A
+Classe: 10.a
+Vagas: 35 | Ocupadas: 7
+Livres: 28
+--------------------------------
+ID: CON10A
+Nome: Turma A
+Classe: 10.a
+Vagas: 35 | Ocupadas: 9
+Livres: 26
+--------------------------------
+ID: CON11A
+Nome: Turma A
+Classe: 11.a
+Vagas: 35 | Ocupadas: 6
+Livres: 29
+--------------------------------

@@ -1,0 +1,13 @@
+# Cursos estaticos do SGMF — NAO ELIMINAR ESTE FICHEIRO
+# Formato: ID|Nome|Propina|Departamento|ClasseMaxima
+[CURSOS TECNICOS]
+INF|Informatica|15000.0|CURSOS TECNICOS|13
+CTB|Contabilidade|15000.0|CURSOS TECNICOS|13
+CIV|Construcao Civil|15000.0|CURSOS TECNICOS|13
+QUI|Quimica|15000.0|CURSOS TECNICOS|13
+MEC|Mecanica|15000.0|CURSOS TECNICOS|13
+GEP|Gestao Empresarial|15000.0|CURSOS TECNICOS|13
+PET|Petroleos|15000.0|CURSOS TECNICOS|13
+[PUNIV]
+CFB|Ciencias Fisicas e Biologicas|15000.0|PUNIV|12
+CEJ|Ciencias Economicas e Juridicas|15000.0|PUNIV|12

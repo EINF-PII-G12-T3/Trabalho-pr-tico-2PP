@@ -1,0 +1,23 @@
+===== RELATORIO GERAL DE PAGAMENTOS =====
+Data: 15/08/2026
+
+Aluno: PAULO FONSECA | Matricula: 20260001 | BI: 1111111111LA01
+  Total Propinas: 0,00 Kz
+--------------------------------
+Aluno: ROGER REIS | Matricula: 20260002 | BI: 2222222222LA02
+  Mensalidade 1: 13200,00 Kz
+  Mensalidade 2: 13200,00 Kz
+  Mensalidade 3: 13200,00 Kz
+  Mensalidade 4: 13200,00 Kz
+  Mensalidade 5: 13200,00 Kz
+  Total Propinas: 66000,00 Kz
+--------------------------------
+Aluno: SERGIO | Matricula: 20260003 | BI: 3333333333LA03
+  Mensalidade 1: 16500,00 Kz
+  Total Propinas: 16500,00 Kz
+--------------------------------
+
+--- EMOLUMENTOS ---
+Total Emolumentos: 0,00 Kz
+
+===== TOTAL GERAL: 82500,00 Kz =====
